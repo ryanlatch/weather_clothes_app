@@ -1,0 +1,37 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+keys.py
+
+# Django
+*.log
+settings.py
+db.sqlite3
+keys.py
+
+# Environment Variables
+.env
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Static and Media
+staticfiles/
+media/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# JetBrains IDEs
+.idea/
